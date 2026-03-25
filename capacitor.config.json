@@ -1,0 +1,15 @@
+{
+  "appId": "com.cafefinanzas.hn",
+  "appName": "CaféFinanzas HN",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1C0A00",
+      "showSpinner": false
+    }
+  }
+}
